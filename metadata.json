@@ -1,0 +1,6 @@
+{
+  "name": "Preguiçoso Produtivo",
+  "description": "Aprenda a usar Inteligência Artificial para facilitar vendas, marketing, copywriting, criativos e tráfego pago. Para produtos físicos, infoprodutos e serviços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
